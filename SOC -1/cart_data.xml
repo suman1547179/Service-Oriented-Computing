@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shoeStore>
+    <shoe>
+        <name>Nike Air Max</name>
+        <brand>Nike</brand>
+        <price>12000</price>
+        <availability>In Stock</availability>
+    </shoe>
+    <shoe>
+        <name>Adidas Ultraboost</name>
+        <brand>Adidas</brand>
+        <price>14000</price>
+        <availability>Out of Stock</availability>
+    </shoe>
+    <shoe>
+        <name>Puma RS-X</name>
+        <brand>Puma</brand>
+        <price>9000</price>
+        <availability>In Stock</availability>
+    </shoe>
+   
+</shoeStore>
+
