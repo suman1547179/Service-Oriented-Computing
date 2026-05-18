@@ -1,3 +1,2 @@
-# Assignment-4
-SOC LAB-4
+# SOC 
 Creating SOAP web service using Axis 2 Implementation
